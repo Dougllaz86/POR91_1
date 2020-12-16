@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Work+Sans:wght@400;700&display=swap');
 
-
 /* GERAL */
-
 body {
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
@@ -23,15 +21,15 @@ section {
 }
 
 .is-primary {
-  background-color: #CB8E6F !important;
+  background-color: #BED7B0 !important;
 }
 
 .notification.is-warning {
-  background-color: #C7EEF0;
+  background-color: #95B6DF;
 }
 
 .hero .notification.is-warning {
-  background-color: #935443 !important;
+  background-color: #619744 !important;
   color: #fff;
 }
 
@@ -40,12 +38,12 @@ section {
 }
 
 .table tr.is-selected {
-  background-color: #935443 !important;
+  background-color: #619744 !important;
   color: #fff;
 }
 
 .is-primary .columns div {
-  background: #CB8E6F;
+  background: #BED7B0;
   color: white;
 }
 
@@ -91,7 +89,6 @@ ul {
 }
 
 /* TEXTO */
-
 h1,
 h2,
 h3,
@@ -114,15 +111,16 @@ h1 span {
   border-radius: 3px;
   box-shadow: 4px 4px 1px #4d2014;
   margin-bottom: 10px;
-  background-color: #935443;
+  background-color: #619744;
   padding: 7px;
   display: inline-block;
 }
 
 .content .legenda h6:first-child {
-  font-weight: 600 !important;
+  /* font-weight: 600 !important; */
   background-color: transparent;
-  color: #935443;
+  text-align: left;
+  color: #619744;
   margin-bottom: 1rem;
   padding: 0 10px;
 }
@@ -130,7 +128,7 @@ h1 span {
 .content .legenda h6 {
   font-weight: 400 !important;
   color: #fff;
-  background-color: #935443;
+  background-color: #619744;
   padding: 10px;
   border-radius: 3px;
 }
@@ -142,7 +140,7 @@ blockquote strong {
 
 .notification.is-primary h3 {
   width: fit-content;
-  background: #935443;
+  background: #619744;
   padding: 10px;
   transform: rotate(-5deg);
   margin-top: -35px;
@@ -152,7 +150,7 @@ blockquote strong {
 
 .mapa h3 {
   width: fit-content;
-  background: #935443;
+  background: #619744;
   padding: 10px;
   color: white;
   margin-bottom: 0;
@@ -174,7 +172,6 @@ li * {
 }
 
 /* ABERTURA */
-
 .abertura {
   position: relative;
   padding-bottom: 0;
@@ -202,11 +199,10 @@ li * {
 }
 
 .abertura .title {
-  color: #935443;
+  color: #619744;
 }
 
 /* EXERCÍCIOS */
-
 textarea {
   margin: 15px 0 25px;
   background-color: white !important;
