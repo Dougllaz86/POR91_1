@@ -171,6 +171,17 @@ li * {
   font-weight: 400;
 }
 
+.credito-img {
+  position: absolute;
+  top: 1%;
+  right: 1%;
+  color: #111;
+  background-color: white;
+  padding: 1px 3px;
+  font-size: 0.6em;
+  opacity: 0.8;
+}
+
 /* ABERTURA */
 .abertura {
   position: relative;
