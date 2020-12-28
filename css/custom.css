@@ -26,6 +26,7 @@ section {
 
 .has-text-primary {
   color: #B29B35 !important;
+  font-weight: 900;
 }
 
 .notification.is-warning {
@@ -127,6 +128,7 @@ h1 span {
   color: #B29B35;
   margin-bottom: 1rem;
   padding: 0 10px;
+  word-break: break-all;
 }
 
 .content .legenda h6 {
