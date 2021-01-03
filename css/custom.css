@@ -21,20 +21,20 @@ section {
 }
 
 .is-primary {
-  background-color: #9DEBC3 !important;
+  background-color: #B69AD0 !important;
 }
 
 .has-text-primary {
-  color: #00A651 !important;
+  color: #74489D !important;
   font-weight: 900;
 }
 
 .notification.is-warning {
-  background-color: #81BCB6;
+  background-color: #F8ABAD;
 }
 
 .hero .notification.is-warning {
-  background-color: #00A651 !important;
+  background-color: #74489D !important;
   color: #fff;
 }
 
@@ -43,12 +43,12 @@ section {
 }
 
 .table tr.is-selected {
-  background-color: #00A651 !important;
+  background-color: #74489D !important;
   color: #fff;
 }
 
 .is-primary .columns div {
-  background: #9DEBC3;
+  background: #B69AD0;
   color: white;
 }
 
@@ -116,7 +116,7 @@ h1 span {
   border-radius: 3px;
   box-shadow: 4px 4px 1px #4d2014;
   margin-bottom: 10px;
-  background-color: #00A651;
+  background-color: #74489D;
   padding: 7px;
   display: inline-block;
 }
@@ -125,7 +125,7 @@ h1 span {
   /* font-weight: 600 !important; */
   background-color: transparent;
   text-align: left;
-  color: #00A651;
+  color: #74489D;
   margin-bottom: 1rem;
   padding: 0 10px;
   word-break: break-all;
@@ -134,7 +134,7 @@ h1 span {
 .content .legenda h6 {
   font-weight: 400 !important;
   color: #fff;
-  background-color: #00A651;
+  background-color: #74489D;
   padding: 10px;
   border-radius: 3px;
 }
@@ -146,7 +146,7 @@ blockquote strong {
 
 .notification.is-primary h3 {
   width: fit-content;
-  background: #00A651;
+  background: #74489D;
   padding: 10px;
   transform: rotate(-5deg);
   margin-top: -35px;
@@ -156,7 +156,7 @@ blockquote strong {
 
 .mapa h3 {
   width: fit-content;
-  background: #00A651;
+  background: #74489D;
   padding: 10px;
   color: white;
   margin-bottom: 0;
@@ -216,7 +216,7 @@ li * {
 }
 
 .abertura .title {
-  color: #00A651;
+  color: #74489D;
 }
 
 /* EXERCÍCIOS */
