@@ -21,20 +21,20 @@ section {
 }
 
 .is-primary {
-  background-color: #B69AD0 !important;
+  background-color: #F1BEC0 !important;
 }
 
 .has-text-primary {
-  color: #74489D !important;
+  color: #B8292F !important;
   font-weight: 900;
 }
 
 .notification.is-warning {
-  background-color: #F8ABAD;
+  background-color: #A6CE39;
 }
 
 .hero .notification.is-warning {
-  background-color: #74489D !important;
+  background-color: #B8292F !important;
   color: #fff;
 }
 
@@ -43,12 +43,12 @@ section {
 }
 
 .table tr.is-selected {
-  background-color: #74489D !important;
+  background-color: #B8292F !important;
   color: #fff;
 }
 
 .is-primary .columns div {
-  background: #B69AD0;
+  background: #F1BEC0;
   color: white;
 }
 
@@ -114,9 +114,9 @@ h1 span {
   font-family: 'Work Sans', sans-serif;
   color: #fff;
   border-radius: 3px;
-  box-shadow: 4px 4px 1px #4d2014;
+  box-shadow: 4px 4px 1px #333333;
   margin-bottom: 10px;
-  background-color: #74489D;
+  background-color: #B8292F;
   padding: 7px;
   display: inline-block;
 }
@@ -125,16 +125,16 @@ h1 span {
   /* font-weight: 600 !important; */
   background-color: transparent;
   text-align: left;
-  color: #74489D;
+  color: #B8292F;
   margin-bottom: 1rem;
   padding: 0 10px;
-  word-break: break-all;
+  word-break: break-word;
 }
 
 .content .legenda h6 {
   font-weight: 400 !important;
   color: #fff;
-  background-color: #74489D;
+  background-color: #B8292F;
   padding: 10px;
   border-radius: 3px;
 }
@@ -146,7 +146,7 @@ blockquote strong {
 
 .notification.is-primary h3 {
   width: fit-content;
-  background: #74489D;
+  background: #B8292F;
   padding: 10px;
   transform: rotate(-5deg);
   margin-top: -35px;
@@ -156,7 +156,7 @@ blockquote strong {
 
 .mapa h3 {
   width: fit-content;
-  background: #74489D;
+  background: #B8292F;
   padding: 10px;
   color: white;
   margin-bottom: 0;
@@ -216,7 +216,7 @@ li * {
 }
 
 .abertura .title {
-  color: #74489D;
+  color: #B8292F;
 }
 
 /* EXERCÍCIOS */
